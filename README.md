@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# [![Header](https://raw.githubusercontent.com/Obada-oth/Obada-oth/main/pngwing.com.png)](https://some-url.dev/)
+# [![Header](https://raw.githubusercontent.com/Obada-oth/Obada-oth/main/pngwing.com.png)](https://github.com/Obada-oth?tab=repositories)
 
 
 
