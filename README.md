@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Header](/Users/hackyourfuture/Desktop/Obada-oth/anastase-maragos-kOYj9vJFWsc-unsplash.jpg)]
+![Header](/Users/hackyourfuture/Desktop/Obada-oth/anastase-maragos-kOYj9vJFWsc-unsplash.jpg)
 
 <!--
 **Obada-oth/Obada-oth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
