@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![[Header](anastase-maragos-kOYj9vJFWsc-unsplash.jpg)]
+[![Header](https://raw.githubusercontent.com/Obada-oth/Obada-oth/anastase-maragos-kOYj9vJFWsc-unsplash.jpg "Header")](https://some-url.dev/)
+
+
 
 <!--
 **Obada-oth/Obada-oth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
