@@ -32,6 +32,7 @@ I've recently started learning how to talk to computers, we still talk past each
 I'm very curious and learning new things is my favorite activity and the million things I still need to learn about coding excite me! 
 
 You can take a look at my CV here : 
+
 [Resume](https://docs.google.com/document/d/1hfMfbmLP734f9en_NXPBtitcdr5QMckXdnUM5xkTNZ8/edit#heading=h.wj0puh61kxsr)
 
 ### Skills:
