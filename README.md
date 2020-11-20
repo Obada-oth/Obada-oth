@@ -31,7 +31,9 @@ I've recently started learning how to talk to computers, we still talk past each
 
 I'm very curious and learning new things is my favorite activity and the million things I still need to learn about coding excite me! 
 
-You can take a look at my resume here : [CV](https://docs.google.com/document/d/1hfMfbmLP734f9en_NXPBtitcdr5QMckXdnUM5xkTNZ8/edit#heading=h.wj0puh61kxsr)
+You can take a look at my resume here : 
+
+[CV](https://docs.google.com/document/d/1hfMfbmLP734f9en_NXPBtitcdr5QMckXdnUM5xkTNZ8/edit#heading=h.wj0puh61kxsr)
 
 ### Skills:
 
@@ -42,7 +44,7 @@ You can take a look at my resume here : [CV](https://docs.google.com/document/d/
 - 📫 How to reach me: Email: obada.oth@gmail.com  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/obada-oth)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/obada-othman-943578a1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/obada-oth)  
+
 
 
 
