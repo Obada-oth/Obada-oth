@@ -1,22 +1,3 @@
-<!--### Hi there 👋 
-
-# [![Header](https://raw.githubusercontent.com/Obada-oth/Obada-oth/main/pngwing.com.png)](https://github.com/Obada-oth?tab=repositories)
-
-<p align='center'>
-<a href="www.linkedin.com/in/obada-othman-943578a1"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-<a href="https://twitter.com/obada_oth"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-</p>
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
 
 ## Hi there 👋, my name is Obada (Obi)
 ### Front End Developer
@@ -29,7 +10,7 @@
 
 I've recently started learning how to talk to computers, we still talk past each other sometimes, but I'm already sure it's an LTR :heavy_heart_exclamation:
 
-I'm very curious and learning new things is my favorite activity and the million things I still need to learn about coding excite me! 
+I'm very curious.Learning new things is my favorite activity and the million things I still need to learn about coding excite me! 
 
 You can take a look at my CV here : 
 
